@@ -1,0 +1,6 @@
+{
+	"proxy":"http://10.9.64.4:8002",
+  	"https-proxy":"http://10.9.64.4:8002",
+        "directory": "public/bower_components"
+
+}

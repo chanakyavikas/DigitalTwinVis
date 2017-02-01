@@ -1,0 +1,15 @@
+---
+applications:
+- name: digital-twin4-tutorial-vis
+  host: digital-twin4-dt-tutorial-vis
+  buildpack: predix_openresty_buildpack
+  path: dist
+  memory: 64M
+  stack: cflinuxfs2
+  services:
+  - digital-twin-redis-service
+  env:
+    UAA_SERVER_URL: https://ce30a5ca-9c2a-41f7-9ced-be97360eb282.predix-uaa.run.aws-usw02-pr.ice.predix.io
+    # UAA_AUTHORIZATION:
+    REDIS: redis-17
+    # SESSION_SECRET:
