@@ -13,7 +13,7 @@ var config = {
         clientId: 'tutorial-user',
         serverUrl: 'https://ce30a5ca-9c2a-41f7-9ced-be97360eb282.predix-uaa.run.aws-usw02-pr.ice.predix.io',
         defaultClientRoute: '/about',
-        base64ClientCredential: 'add HTTP basic credential here for local development'
+        base64ClientCredential: 'dHV0b3JpYWwtdXNlcjp0dXRvcmlhbC11c2Vy'
     },
     /**
      * --------- ADD YOUR SECURE ROUTES HERE ------------

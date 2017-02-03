@@ -1,24 +1,3 @@
-v0.3.4
-==================
-* updated to cool grays
-
-v0.3.3
-==================
-* changing ghp.sh to account for Alpha releases
-
-v0.3.2
-==================
-* added _settings.colors-dark.scss 
-
-v0.3.1
-==================
-* Removed color converter py script; need to manually update color behavior now.
-* Modified behavior to allow dev set color props to override defaults.
-
-v0.3.0
-==================
-* Add `dataVisColorTheming` shared behavior to unify theming methods across px-vis-* and px-simple-* charts
-
 v0.2.34
 ==================
 * fixed demo page

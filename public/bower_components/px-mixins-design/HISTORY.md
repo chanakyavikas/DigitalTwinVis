@@ -1,15 +1,3 @@
-v0.3.2
-==================
-* changing ghp.sh to account for Alpha releases
-
-v0.3.1
-==================
-* Update missed design depndencies
-
-v0.3.0
-==================
-* Updated dependencies
-
 v0.2.15
 ==================
 * Move to style modules to demos

@@ -4,9 +4,7 @@
 /// @group px-iconography-design
 ////
 
-/// Path to FontAwesome fonts
-/// @group px-iconography-design:variables:style
-/// @type String [default]
+/// @type String [default] - Path to FontAwesome fonts
 $fa-font-path : "../font-awesome/fonts" !default;
 
 @import "font-awesome/scss/font-awesome.scss";
